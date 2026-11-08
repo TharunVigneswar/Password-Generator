@@ -19,4 +19,4 @@ This is a pasword generator program which generates random passwords according t
 2. Open it using any code editor like IDLE, VS Code, Pycharm, etc.
 
 # Application Image
-![Image](image.png)
+<img width="361" height="430" alt="image" src="https://github.com/user-attachments/assets/bc65aa28-07e0-4e62-8476-5dd2dceda119" />
